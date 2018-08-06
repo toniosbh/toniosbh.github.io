@@ -37,6 +37,7 @@ h1 {
 
 .btn-primary {
 	margin-top: 23rem;
+	margin-left: 10rem;
 }
 .btn-primary:hover {
   background-color: #ee4b08;
