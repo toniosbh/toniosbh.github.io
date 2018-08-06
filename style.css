@@ -48,6 +48,7 @@ h1 {
 #mc_embed_signup form {
     display: block;
     position: relative;
-    text-align: right;
+    text-align: left;
     padding: 10px 0 10px 3%;
-	}
+    margin-left: 50px;	
+}
